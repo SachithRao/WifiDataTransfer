@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{42F55951-DDD9-4111-9D9A-E274157F3A7E}|Default">
+  <MonoDevelop.Ide.ItemProperties.WifiDataTransfer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.16BD051E-F155-4C91-9BB0-F13F39453ED9" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="WifiDataTransfer/App.xaml" Line="5" Column="15" />
+      <File FileName="WifiDataTransfer/AssemblyInfo.cs" Line="3" Column="13" />
+      <File FileName="WifiDataTransfer/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="WifiDataTransfer/MainPage.xaml.cs" Line="26" Column="1" />
+      <File FileName="WifiDataTransfer/IDataTransferServices.cs" Line="9" Column="1" />
+      <File FileName="WifiDataTransfer.iOS/DataTransferServices.cs" Line="21" Column="68" />
+      <File FileName="WifiDataTransfer.Android/DataTransferServices.cs" Line="38" Column="1" />
+      <File FileName="WifiDataTransfer.iOS/Main.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WifiDataTransfer" expanded="True">
+            <Node name="WifiDataTransfer" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="WifiDataTransfer.Android" expanded="True" />
+            <Node name="WifiDataTransfer.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="DataTransferServices.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WifiDataTransfer.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer.iOS/DataTransferService.cs" relfile="WifiDataTransfer.iOS/DataTransferService.cs" line="10" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

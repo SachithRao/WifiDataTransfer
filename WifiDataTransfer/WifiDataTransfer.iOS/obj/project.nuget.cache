@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kxcskTMPZoeQK7CEp03+OpNBq4x+BrEA59e7tXssepN6VCReAvjCXa8DesMxVwuUN1M1GVQWOHdo/cv9QYuMQg==",
+  "success": true,
+  "projectFilePath": "/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer.iOS/WifiDataTransfer.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/sachithrao/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/sachithrao/.nuget/packages/xamarin.essentials/1.3.1/xamarin.essentials.1.3.1.nupkg.sha512",
+    "/Users/sachithrao/.nuget/packages/xamarin.forms/4.5.0.495/xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

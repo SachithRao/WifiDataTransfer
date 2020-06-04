@@ -1,0 +1,13 @@
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/bin/Debug/netstandard2.0/WifiDataTransfer.deps.json
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/bin/Debug/netstandard2.0/WifiDataTransfer.dll
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/bin/Debug/netstandard2.0/ref/WifiDataTransfer.dll
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/bin/Debug/netstandard2.0/WifiDataTransfer.pdb
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/WifiDataTransfer.AssemblyInfoInputs.cache
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/WifiDataTransfer.AssemblyInfo.cs
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/WifiDataTransfer.csproj.CoreCompileInputs.cache
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/WifiDataTransfer.dll
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/ref/WifiDataTransfer.dll
+/Users/sachithrao/1Projects/Xamarine/WifiDataTransfer/WifiDataTransfer/obj/Debug/netstandard2.0/WifiDataTransfer.pdb
